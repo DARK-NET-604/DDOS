@@ -3,6 +3,10 @@
 This tool for DDos Attack in any website by Termux.
 
 <br><br>
+# Password⬇️:
+```
+DARK-NET
+```
 # COMMANDS:⬇️
 ```
 termux-setup-storage
